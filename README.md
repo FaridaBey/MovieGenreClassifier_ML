@@ -111,7 +111,7 @@ Best-performing model:
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/FaridaBey/MovieGenreClassifier_ML.git
    cd movie-genre-classification
    ```
 2. Install dependencies:
